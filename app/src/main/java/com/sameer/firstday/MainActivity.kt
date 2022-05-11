@@ -11,12 +11,18 @@ import com.sameer.firstday.model.Items
 class MainActivity : AppCompatActivity() {
 
     lateinit var button : Button
+    lateinit var button2: Button
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
         val recyclerView : RecyclerView = findViewById(R.id.id_recycler_view)
         button = findViewById(R.id.id_button)
+        button2 = findViewById(R.id.id_button2)
+
+        button2.setOnClickListener {
+            startActivity(MultiRecyclerView.newIntent(this))
+        }
 
         button.setOnClickListener {
             startActivity(SecondActivity.newIntent(this)

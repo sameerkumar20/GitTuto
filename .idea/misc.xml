@@ -3,10 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/Desktop/first_project/app/src/main/res/drawable/chip.xml" value="0.2703125" />
         <entry key="..\:/Users/ASUS/Desktop/first_project/app/src/main/res/drawable/ic_alert.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/first_project/app/src/main/res/drawable/input_bg.xml" value="0.2703125" />
         <entry key="..\:/Users/ASUS/Desktop/first_project/app/src/main/res/layout/activity_main.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/ASUS/Desktop/first_project/app/src/main/res/layout/activity_multi_recycler_view.xml" value="0.2368659420289855" />
         <entry key="..\:/Users/ASUS/Desktop/first_project/app/src/main/res/layout/activity_second.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/ASUS/Desktop/first_project/app/src/main/res/layout/activity_third.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/Desktop/first_project/app/src/main/res/layout/detail_card.xml" value="0.536" />
+        <entry key="..\:/Users/ASUS/Desktop/first_project/app/src/main/res/layout/expandable_card.xml" value="0.24139492753623187" />
         <entry key="..\:/Users/ASUS/Desktop/first_project/app/src/main/res/layout/item_card.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/ASUS/Desktop/first_project/app/src/main/res/layout/parent_card.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/Desktop/first_project/app/src/main/res/layout/payment_chip_card.xml" value="0.24139492753623187" />
       </map>
     </option>
   </component>
